@@ -17,7 +17,7 @@ I am a versatilist and easily adapt to different hats (Full Stack junior Web Dev
 
 ### My projects
 
-[NextJS Digital Game Deals](https://github.com/Timur310/Next-deals)
+[NextJS Digital Game Deals](https://github.com/Timur310/Next-deals)<br>
 [DungeonCrawl](https://github.com/Timur310/DungeonCrawl)
 
 
