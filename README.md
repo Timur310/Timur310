@@ -16,6 +16,10 @@ I am a versatilist and easily adapt to different hats (Full Stack junior Web Dev
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ádám-timur-y-7885ba119/)
 - 🖥 &nbsp; When I am free, I either Play Valorant and Apex legends or learn more about different web technologies <!--- 📝 &nbsp; Checkout my [resume](link here)-->
 
+### My projects
+
+---
+
 ### Everything I used and learned 
   
 ---
