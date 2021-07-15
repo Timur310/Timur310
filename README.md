@@ -18,6 +18,8 @@ I am a versatilist and easily adapt to different hats (Full Stack junior Web Dev
 
 ### My projects
 
+[NextJS Digital Game Deals](https://github.com/Timur310/Next-deals)
+
 ---
 
 ### Everything I used and learned 
