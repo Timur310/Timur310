@@ -8,7 +8,7 @@ I am a versatilist and easily adapt to different hats (Full Stack junior Web Dev
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="360px"/>
 
 ### 🧐 More About Me:
-- 📚 &nbsp; I’m currently studying Full-stack development @ Codecool
+- 📚 &nbsp; I’m currently Working as a junior software engineer @ Saltmine
 - 🎨 &nbsp; Former student of visual arts and graphic design
 - 🌱 &nbsp; I’m currently learning Java spring; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/timur310?tab=repositories)
