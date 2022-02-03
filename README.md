@@ -10,7 +10,6 @@ I am a versatilist and easily adapt to different hats (Full Stack junior Web Dev
 ### 🧐 More About Me:
 - 📚 &nbsp; I’m currently Working as a junior software engineer @ Saltmine
 - 🎨 &nbsp; Former student of visual arts and graphic design
-- 🌱 &nbsp; I’m currently learning Java spring; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/timur310?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ádám-timur-y-7885ba119/)
 - 🖥 &nbsp; When I am free, I either Play Valorant and Apex legends or learn more about different web technologies <!--- 📝 &nbsp; Checkout my [resume](link here)-->
