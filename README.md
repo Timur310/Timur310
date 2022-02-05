@@ -20,6 +20,7 @@ I am a versatilist and easily adapt to different hats (Full Stack junior Web Dev
 [DungeonCrawl](https://github.com/Timur310/DungeonCrawl)<br>
 [CodecoolShop](https://github.com/Timur310/CodecoolShop)<br>
 [Askmate](https://github.com/Timur310/AskMate)
+[DenoTracer](https://github.com/Timur310/DenoTracer)
 
 
 ### Everything I used and learned 
