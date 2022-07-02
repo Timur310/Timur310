@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Yilmaz Ádám Timur!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github)](https://git.io/typing-svg)
 
-I am a versatilist and easily adapt to different hats (Full Stack junior Web Developer 🌐 and mid level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+I am a versatilist and easily adapt to different hats (junior software engineer 🌐 and mid level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 
  <img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" />
   
