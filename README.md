@@ -45,8 +45,3 @@ I am a versatilist and easily adapt to different hats (junior software engineer 
 
 ### 🔎 Version Control:
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GITLAB-3B3C36?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab" ></img>
-
-### Roadmap 
-- [ ] Learn GoLang
-- [ ] Learn rust
-- [ ] Learn GLSL
