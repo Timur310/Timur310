@@ -8,11 +8,11 @@ I am a versatilist and easily adapt to different hats (junior software engineer 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="360px"/>
 
 ### 🧐 More About Me:
-- 📚 &nbsp; I’m currently Working as a junior software engineer @ Saltmine
+- 📚 &nbsp; I’m currently Working as a software engineer @ Saltmine
 - 🎨 &nbsp; Former student of visual arts and graphic design
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/timur310?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ádám-timur-y-7885ba119/)
-- 🖥 &nbsp; When I am free, I either Play Valorant and Apex legends or learn more about different web technologies <!--- 📝 &nbsp; Checkout my [resume](link here)-->
+- 🖥 &nbsp; When I am free, I either Play Valorant and Apex legends or learn more about different programming languagues/web technologies <!--- 📝 &nbsp; Checkout my [resume](link here)-->
 
 ### Everything I used and learned 
   
