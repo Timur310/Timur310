@@ -28,10 +28,10 @@ I build scalable web applications and interactive experiences using modern JavaS
 
 ### Writing & presence
 
-- Portfolio: *(your portfolio URL)*  
-- Blog: *(your blog URL)*  
-- LinkedIn: *(your LinkedIn URL)*  
-- Email: *(your email)*  
+<!---- Portfolio: *(your portfolio URL)*  
+- Blog: *(your blog URL)*  --->
+- [LinkedIn](https://www.linkedin.com/in/ádám-timur-y-7885ba119/)  
+- Email: yilmaz.adamt@gmail.com  
 
 ---
 
