@@ -39,5 +39,3 @@ I build scalable web applications and interactive experiences using modern JavaS
 
 TypeScript · React · Next.js · Tailwind CSS · Three.js  
 Node.js · PostgreSQL · Docker · AWS
-
-> *I can build complex things, I just don’t need to show off poorly.*
