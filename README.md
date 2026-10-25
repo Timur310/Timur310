@@ -19,7 +19,7 @@ I build scalable web applications and interactive experiences using modern JavaS
 
 ### Background
 
-- Software Developer at **INSPYRE Informatics**  
+- Fullstack Developer at **INSPYRE Informatics**  
 - Former student of **visual arts and graphic design**  
 - Strong interest in the intersection of engineering and design  
 - Most work is open-source and available here on GitHub  
